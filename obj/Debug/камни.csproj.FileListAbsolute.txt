@@ -1,0 +1,9 @@
+C:\Users\Ксюша\Desktop\программы\камни\bin\Debug\камни.exe.config
+C:\Users\Ксюша\Desktop\программы\камни\bin\Debug\камни.exe
+C:\Users\Ксюша\Desktop\программы\камни\bin\Debug\камни.pdb
+C:\Users\Ксюша\Desktop\программы\камни\obj\Debug\камни.Properties.Resources.resources
+C:\Users\Ксюша\Desktop\программы\камни\obj\Debug\камни.csproj.GenerateResource.Cache
+C:\Users\Ксюша\Desktop\программы\камни\obj\Debug\камни.exe
+C:\Users\Ксюша\Desktop\программы\камни\obj\Debug\камни.pdb
+C:\Users\Ксюша\Desktop\программы\камни\obj\Debug\камни.Form11.resources
+C:\Users\Ксюша\Desktop\программы\камни\obj\Debug\камни.csprojResolveAssemblyReference.cache
